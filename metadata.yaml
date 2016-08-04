@@ -1,0 +1,28 @@
+_repo: Tales-from-Two-Hemispheres_299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boyesen, Hjalmar Hjorth
+    alias: Boyesen, Hjalmar H.
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '170'
+    url: http://www.gutenberg.org/2009/agents/170
+description: ''
+gutenberg_issued: '1995-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian Americans -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The man who lost his name -- The story of an outcast -- A good-for-nothing
+  -- A scientific vagabond -- Truls, the nameless -- Asathor's vengeance
+title: Tales from Two Hemispheres
+url: http://www.gutenberg.org/ebooks/299
